@@ -9,4 +9,4 @@ I am a student in the Virtual Reality Engineering and Video Game Design program 
 ## Tools
 `Unity` · `C#` · `HTML` · `JS` · `CSS` · `Git` 
 ## Contact
-https://www.linkedin.com/in/benjamin-bravo-b55064300/ · benjamin.bravo.dev@gmail.com · https://dark0glow0.github.io/Protafolio/
+[Linkedin](https://www.linkedin.com/in/benjamin-bravo-b55064300/) · benjamin.bravo.dev@gmail.com · [Portafolio](https://dark0glow0.github.io/Protafolio/)
